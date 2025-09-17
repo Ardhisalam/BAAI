@@ -10,3 +10,4 @@
 # 3. Output
 print('Hello Tunghai University')
 print("looking bad")
+print("so bad")
